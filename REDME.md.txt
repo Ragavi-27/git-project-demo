@@ -1,0 +1,7 @@
+After completed the above course video, complete the below assignment.
+
+1. Create a directory with name "git-project" and add a file REDME.md(txt) file.
+
+2. Add some text inside file and using git desktop push the file on remote repositories.
+
+show all command output and share the screenshot.
